@@ -1,6 +1,7 @@
-Flask
+flask
 Gunicorn
 cs50
 flask_session
-SocketIO
+flask_socketio
 openai
+werkzeug.security
