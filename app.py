@@ -18,7 +18,7 @@ app.config["SESSION_TYPE"] = "filesystem"
 Session(app)
 
 #Allowing application to use the openai and socket libraries
-openai.api_key="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"
+openai.api_key="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"
 socketio = SocketIO(app, cors_allowed_origins="*")
 
 #Configuring application to use SQLite database
