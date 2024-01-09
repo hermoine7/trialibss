@@ -1,6 +1,6 @@
 Flask
 Gunicorn
 cs50
-Session
+flask_session
 SocketIO
 openai
